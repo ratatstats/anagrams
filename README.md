@@ -10,6 +10,7 @@ And instead of trusting Yahoo Answers, I’m going to write a script to check fo
 Here are the solutions:
 
 Set 1: “carets” “caster” “caters” “crates” “reacts” “recast” “traces”
+
 Set 2: “pares” “parse” “pears” “rapes” “reaps” “spare” “spear”
 
 I picked #2 because of “parse”… despite “rapes”. And also because five rings are cheaper than six. I wanted the most bang for my buck, remember?
@@ -30,12 +31,12 @@ Now for the R scripts. I’m going to try two different methods.
 
 Results:
 
-Option 1 Run time:
+Option 1 run time:
 real    0m5.960s
 user    0m5.828s
 sys    0m0.108s
 
-Option 2 Run time:
+Option 2 run time:
 real    0m16.395s
 user    0m16.229s
 sys    0m0.096s
