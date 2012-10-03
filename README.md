@@ -1,22 +1,22 @@
 anagrams
 ========
 
-I used nerdome for something unnerdy: fashion. I’m ashamed, yet proud. I will likely be judged for this by nerds and non-nerds alike.
+I used nerdome for something non-nerdy: fashion. I’m ashamed, yet proud. I will likely be judged for this by nerds and non-nerds alike.
 
-When I stumbled upon alphabet stackable rings, I felt a need... but what would I spell? I would want the word in the English dictionary with the most anagrams to get the most bang for my buck. Obviously.
+When I came across alphabet stackable rings, I felt a need... but what would I spell? I would want the word in the English dictionary with the most anagrams to get the most bang for my buck. Obviously.
 
-And instead of trusting Yahoo Answers, I’m going to write a script to check for myself. Of course.
+And instead of trusting Yahoo Answers, I’m going to write a script to check for myself, of course.
 
 Here are the solutions:
 
-Set 1: “carets” “caster” “caters” “crates” “reacts” “recast” “traces” 
+Set 1: “carets” “caster” “caters” “crates” “reacts” “recast” “traces”
 Set 2: “pares” “parse” “pears” “rapes” “reaps” “spare” “spear”
 
 I picked #2 because of “parse”… despite “rapes”. And also because five rings are cheaper than six. I wanted the most bang for my buck, remember?
 
 This project directory contains my code. Now, I may be a bit strange, but I’m not a masochist. So I used R. This means that true nerds might not appreciate all of the following, as it isn’t going to be incredibly, extraordinarily efficient, but it works.
 
-First, give thanks for what Ubuntu has provided:
+First, to utilize what Ubuntu has provided:
 
 grep -P ‘^[a-z]+$’ /usr/share/dict/words > words
 
@@ -40,4 +40,4 @@ real    0m16.395s
 user    0m16.229s
 sys    0m0.096s
 
-What do you know?! Primes is still much faster! :)
+What do you know? Primes is still much faster!
