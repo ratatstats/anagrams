@@ -1,9 +1,9 @@
 anagrams
 ========
 
-I used nerdome for something unnerdy: fashion. I’m ashamed, yet proud. I will probably be judged for this by nerds and non-nerds alike.
+I used nerdome for something unnerdy: fashion. I’m ashamed, yet proud. I will likely be judged for this by nerds and non-nerds alike.
 
-When I stumbled upon Gorjana’s alphabet stackable rings, I felt a need... but what would I spell? I would want the word in the English dictionary with the most anagrams to get the most bang for my buck. Obviously.
+When I stumbled upon alphabet stackable rings, I felt a need... but what would I spell? I would want the word in the English dictionary with the most anagrams to get the most bang for my buck. Obviously.
 
 And instead of trusting Yahoo Answers, I’m going to write a script to check for myself. Of course.
 
